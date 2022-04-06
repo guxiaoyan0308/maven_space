@@ -8,6 +8,7 @@ public class Word {
 
     public static void main(String[] args) {
         System.out.println("gxy");
+        System.out.println("更新1");
     }
 
 
